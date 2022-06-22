@@ -1,4 +1,4 @@
-package com.studyhardpro.News.Parcer;
+package com.studyhardpro.News.Parser;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

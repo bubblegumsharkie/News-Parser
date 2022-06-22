@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.studyhardpro</groupId>
-	<artifactId>News-Parcer</artifactId>
+	<artifactId>News-Parser</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>News-Parcer</name>
-	<description>Project for parcing </description>
+	<name>News-Parser</name>
+	<description>Project for parsing </description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
