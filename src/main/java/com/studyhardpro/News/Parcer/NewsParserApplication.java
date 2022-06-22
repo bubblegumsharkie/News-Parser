@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class NewsParcerApplication {
+public class NewsParserApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(NewsParcerApplication.class, args);
+		SpringApplication.run(NewsParserApplication.class, args);
 	}
 
 }
